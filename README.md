@@ -13,6 +13,9 @@ UGGE REETHUVARMA                                              - 2103A52038
 SATTU SAI PRANEETH                                               - 2103A52034  
 
 Dataset
+
+Dataset link - https://drive.google.com/drive/folders/18yRibtppG78SHVotjgCp-VFeC062oMW2?usp=drive_link
+
 The LEVIR-CD dataset is a large-scale, high-resolution collection of satellite images designed for building change detection tasks
 
 High-Resolution Dataset – Contains 637 pairs of 1024 × 1024 pixel satellite images, with a resolution of 0.5 meters per pixel.
