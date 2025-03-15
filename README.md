@@ -48,8 +48,3 @@ The model was evaluated on **high-resolution satellite images**, successfully de
 ![__results___7_0](https://github.com/user-attachments/assets/464a104a-d7ef-4fa1-91fc-af97312433b4)  
 
 ---
-
-## 🚀 How to Use  
-### 1️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
