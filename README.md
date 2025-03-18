@@ -8,7 +8,7 @@
 | Name | Roll Number |
 |------|------------|
 | **THIPPANI VENKATA NAGASHESHU MANI** | 2103A52036 |
-| **UGGE REETHUVARMA** | 2103A52038 |
+| **UGGE REETHUVARMA** | 2103A52037 |
 | **SATTU SAI PRANEETH** | 2103A52034 |
 
 ---
